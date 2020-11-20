@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    color: aquamarine;
+}
+
+#APPS {
+    width: 100%;
+    height: 800px;
+    background: blue;
+}
+
+#GAMES {
+    width: 100%;
+    height: 800px;
+    background: red;
+}
+
+#CHATBOT {
+    width: 100%;
+    height: 800px;
+    background: brown;
+}
+
+.line {
+    height: 6px;
+    background: black;
+    width: 70px;
+    margin: 8px auto;
+
+}
+
+img {
+    transition: transform .2s;
+    width:300px;
+}
+
+img-hover {
+    transform: scale(0.9);
+
+}
+h2{
+    text-align: center;
+}
